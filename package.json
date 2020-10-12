@@ -1,6 +1,6 @@
 {
   "name": "el-bot-plugin-music",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "网易和QQ点歌",
   "main": "index.js",
   "publishConfig": {

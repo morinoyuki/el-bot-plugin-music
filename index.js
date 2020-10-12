@@ -3,7 +3,7 @@ const axios = require('axios').default;
 const stringRandom = require('string-random');
 const NeteaseMusic = require('simple-netease-cloud-music');
 const { default: Bot } = require('el-bot');
-const { secFormat } = require('../../utils');
+// const { secFormat } = require('../../utils');
 const nm = new NeteaseMusic();
 
 // let uin = 0;

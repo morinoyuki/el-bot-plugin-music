@@ -1,2 +1,2 @@
 # el-bot-plugin-music
-梦娜的点歌插件
+网易和 QQ 点歌插件
